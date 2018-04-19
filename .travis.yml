@@ -5,3 +5,6 @@ deploy:
   file: README.md
   on:
     repo: fishwong1992/test
+    
+sctipt:
+  echo a
