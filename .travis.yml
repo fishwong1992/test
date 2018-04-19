@@ -1,0 +1,7 @@
+deploy:
+  provider: releases
+  api_key:
+    secure: CkPJP/8+EUSvyXxmH2pU8b88q75GQ4ZPR2rRliYtqvnuYNHsD/EjcNvThHrVkgLCFcRNSrlf6003Ph4nBrtuR5DISo9oXVkWUx0UjY3Csl4/gByAXT94Zh678krnnf5mWVF+7hwpBppzDYEJrP4x5NZdc4XBbcASzQw1WTyoP/aHPnNT33fr+68o/zYnOolrFMwieOPegwt/1TEfIU41YjbpfQvEwxLwAQVVwhhf6y9UA+lIqSR5beqyHBflj3KvB2Dag5/bIDLdcPSM9lPizSFs6h/6q+Vn8txiS8FsxZeQ50RFOUWPyjlHUUQcpjbkLPRJm/xi12oRz2W6K8udyrWggSdR1KNR/RdPrzO824tuQecoCUknrHbBNt0UgdB15B3EWPMpEfatVMppp8oRsQXcW0Veb6apX2qQjGhXaGYqVtClJ1sq7jO27Z8y+987t7c0ulfyyJ+jTx8tbsu7cryykfzQ/EmLALtmfYuZw2/CzhztfBz/7lgR3HSxz+Bg77JMqw9w/XtXFpum0RpWHzMYYtnjOtZZ/FdLLwE00zR8EcgMggL/jMflVfzLN2UgM/Ogpelay40SMmbMgZIwReAp//Y3xzwfveia5kbvU+HVMzLM8j7uY9uHfTaWs9dzZI2ANVQu5N8UOfUhlyjl8tPfwDw311lPeLQLC3D/Y3g=
+  file: README.md
+  on:
+    repo: fishwong1992/test
