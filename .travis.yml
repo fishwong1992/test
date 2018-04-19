@@ -8,3 +8,5 @@ deploy:
     
 sctipt:
   echo a
+
+language: generic
